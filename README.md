@@ -1,12 +1,14 @@
 # 🖼️ Visual Question Answering System (VQA)
 
-An **Explainable AI-based Visual Question Answering System** that enables users to upload an image and ask questions about it. The system analyzes images using deep learning and provides intelligent answers with support for voice interaction, multilingual translation, Grad-CAM visualization, and PDF report generation.
+An **Visual Question Answering System** that enables users to upload an image and ask questions about it. The system analyzes images using deep learning and provides intelligent answers with support for voice interaction, multilingual translation, Grad-CAM visualization, and PDF report generation.
 
 ---
 
 ## 🎥 Demo Video
 
-[![Watch Demo]("C:\Users\jjerl\Videos\Screen Recordings\Screen Recording 2026-04-22 205033.mp4")
+## 🎥 Demo Video
+
+▶️ [Watch Demo]("C:\Users\jjerl\Videos\Screen Recordings\Screen Recording 2026-04-22 205033.mp4")
 
 ▶️ Click the image above to watch the full demo
 
