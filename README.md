@@ -6,7 +6,8 @@ An **Visual Question Answering System** that enables users to upload an image an
 
 ## 🎥 Demo Video
 
-▶️ ("C:\Users\jjerl\Videos\Screen Recordings\Screen Recording 2026-04-22 205033.mp4")
+"C:\Users\jjerl\OneDrive\Screen Recording 2026-04-22 205033.mp4"
+
 
 ▶️ Click the image above to watch the full demo
 
