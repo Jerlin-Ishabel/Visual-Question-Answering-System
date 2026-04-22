@@ -1,0 +1,39 @@
+{
+  "_name_or_path": "dandelin/vilt-b32-mlm",
+  "architectures": [
+    "ViltForQuestionAnswering"
+  ],
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "Dog",
+    "1": "Fern",
+    "2": "Studying"
+  },
+  "image_size": 384,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "label2id": {
+    "Dog": 0,
+    "Fern": 1,
+    "Studying": 2
+  },
+  "layer_norm_eps": 1e-12,
+  "max_image_length": -1,
+  "max_position_embeddings": 40,
+  "modality_type_vocab_size": 2,
+  "model_type": "vilt",
+  "num_attention_heads": 12,
+  "num_channels": 3,
+  "num_hidden_layers": 12,
+  "num_images": -1,
+  "patch_size": 32,
+  "qkv_bias": true,
+  "tie_word_embeddings": false,
+  "torch_dtype": "float32",
+  "transformers_version": "4.38.2",
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}

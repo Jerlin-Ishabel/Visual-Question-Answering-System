@@ -1,0 +1,210 @@
+[
+ {
+  "image": "pic_2.jpg",
+  "detected_visual_keywords": [
+    "8 students",
+    "1 adult",
+    "teacher",
+    "tents",
+    "forest",
+    "trees",
+    "sun",
+    "camping"
+  ],
+  "questions": [
+    {
+      "question": "How many people are in the picture?",
+      "question_keywords": ["how many", "people", "count"],
+      "answer": "Nine",
+      "explanation": "Eight students and one adult are clearly visible in the image."
+    },
+    {
+      "question": "Where are they?",
+      "question_keywords": ["where", "location"],
+      "answer": "At a forest campsite",
+      "explanation": "Trees, grass, and tents show that they are in a forest campsite."
+    },
+    {
+      "question": "Why are they there?",
+      "question_keywords": ["why", "purpose"],
+      "answer": "For a camping trip",
+      "explanation": "Tents and outdoor group activities indicate a camping trip."
+    },
+    {
+      "question": "Who is with the children?",
+      "question_keywords": ["who", "children"],
+      "answer": "An adult (teacher)",
+      "explanation": "One adult supervising the students is visible in the image."
+    },
+    {
+      "question": "What is the weather like?",
+      "question_keywords": ["weather"],
+      "answer": "Sunny",
+      "explanation": "The sun is clearly visible in the sky."
+    },
+    {
+      "question": "What season is it likely?",
+      "question_keywords": ["season"],
+      "answer": "Summer",
+      "explanation": "Sunny weather and camping activities suggest the summer season."
+    },
+    {
+      "question": "What can you see in the background?",
+      "question_keywords": ["background"],
+      "answer": "Trees and tents",
+      "explanation": "Tall trees and colorful tents are visible in the background."
+    },
+    {
+      "question": "What is the blond boy wearing?",
+      "question_keywords": ["blond boy", "wearing"],
+      "answer": "A cap, shorts, and a backpack",
+      "explanation": "The blond boy is shown wearing a cap, shorts, and carrying a backpack."
+    },
+    {
+      "question": "How many tents are visible in the picture?",
+      "question_keywords": ["how many", "tents", "count"],
+      "answer": "Four",
+      "explanation": "Four different colored tents can be clearly seen in the image."
+    },
+    {
+      "question": "Are the children happy?",
+      "question_keywords": ["children", "happy"],
+      "answer": "Yes",
+      "explanation": "The children are smiling and playing, which shows they are happy."
+    },
+    {
+      "question": "Is the activity happening indoors or outdoors?",
+      "question_keywords": ["indoors", "outdoors"],
+      "answer": "Outdoors",
+      "explanation": "Trees, grass, and tents indicate an outdoor environment."
+    },
+    {
+      "question": "What objects show that this is a camping trip?",
+      "question_keywords": ["objects", "camping"],
+      "answer": "Tents",
+      "explanation": "Camping tents are the main objects that indicate a camping trip."
+    },
+    {
+      "question": "Is there any adult supervising the children?",
+      "question_keywords": ["adult", "supervising"],
+      "answer": "Yes",
+      "explanation": "One adult standing near the children appears to be supervising them."
+    },
+    {
+      "question": "What time of the day is it?",
+      "question_keywords": ["time", "day"],
+      "answer": "Daytime",
+      "explanation": "The sun is visible, indicating it is daytime."
+    },
+    {
+      "question": "Are the children standing or sitting?",
+      "question_keywords": ["standing", "sitting"],
+      "answer": "Both",
+      "explanation": "Some children are standing while one child is sitting near a tent."
+    },
+    {
+      "question": "Is the place crowded or calm?",
+      "question_keywords": ["crowded", "calm"],
+      "answer": "Calm",
+      "explanation": "Only a small group of people are present in a natural environment."
+    }
+  ]
+},
+{
+  "image": "pic_3.jpg",
+  "questions": [
+    {
+      "question": "Where are the people?",
+      "question_keywords": ["where", "people", "location"],
+      "answer": "The people are in a vegetable garden.",
+      "explanation": "Vegetable plants, soil, and gardening activities show that the people are in a vegetable garden."
+    },
+    {
+      "question": "What is the weather like?",
+      "question_keywords": ["weather"],
+      "answer": "The weather is sunny.",
+      "explanation": "The sun is clearly visible in the sky."
+    },
+    {
+      "question": "How many people are in the picture?",
+      "question_keywords": ["how many", "people", "count"],
+      "answer": "There are four people in the picture.",
+      "explanation": "One father, one mother, one boy, and one girl are clearly visible in the vegetable garden."
+    },
+    {
+      "question": "What does the boy harvest?",
+      "question_keywords": ["boy", "harvest"],
+      "answer": "The boy harvests tomatoes.",
+      "explanation": "The boy is picking red tomatoes from the tomato plant."
+    },
+    {
+      "question": "What other vegetables can you find here?",
+      "question_keywords": ["other vegetables"],
+      "answer": "Corn and leafy vegetables can be found here.",
+      "explanation": "Corn plants and green leafy vegetables are visible in the garden."
+    },
+    {
+      "question": "What clothes does the woman wear?",
+      "question_keywords": ["woman", "clothes"],
+      "answer": "The woman wears a hat, a shirt, and trousers.",
+      "explanation": "The woman is shown wearing a hat and comfortable gardening clothes."
+    },
+    {
+      "question": "What color do the houses have?",
+      "question_keywords": ["color", "houses"],
+      "answer": "The houses are pink and blue.",
+      "explanation": "Two houses with pink and blue colors are visible in the background."
+    },
+    {
+      "question": "What does the girl do?",
+      "question_keywords": ["girl", "do", "action"],
+      "answer": "The girl is picking vegetables from the plants.",
+      "explanation": "The girl is bending down and collecting vegetables from the garden."
+    },
+    {
+      "question": "Which animals are there in the garden?",
+      "question_keywords": ["animals", "garden"],
+      "answer": "A bird is in the garden.",
+      "explanation": "A bird can be seen flying near the house in the background."
+    },
+    {
+      "question": "Which season is it?",
+      "question_keywords": ["season"],
+      "answer": "It is summer.",
+      "explanation": "Sunny weather and active gardening indicate the summer season."
+    }
+  ],
+  "extra_questions": [
+    {
+      "question": "What tools can you see in the garden?",
+      "question_keywords": ["tools"],
+      "answer": "A wheelbarrow and a hand shovel",
+      "explanation": "A wheelbarrow near the father and a small shovel near the boy are visible."
+    },
+    {
+      "question": "Who is working with the wheelbarrow?",
+      "question_keywords": ["who", "wheelbarrow"],
+      "answer": "The father",
+      "explanation": "An adult man is shown pushing the wheelbarrow."
+    },
+    {
+      "question": "Are the people working together or alone?",
+      "question_keywords": ["working", "together"],
+      "answer": "They are working together.",
+      "explanation": "All family members are involved in gardening activities."
+    },
+    {
+      "question": "What color are the tomatoes?",
+      "question_keywords": ["color", "tomatoes"],
+      "answer": "Red",
+      "explanation": "Red tomatoes are clearly visible on the plants."
+    },
+    {
+      "question": "What vegetables are ready to be harvested?",
+      "question_keywords": ["vegetables", "harvested"],
+      "answer": "Tomatoes",
+      "explanation": "The tomatoes are fully grown and being picked."
+    }
+  ]
+}
+]

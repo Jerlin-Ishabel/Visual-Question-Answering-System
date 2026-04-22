@@ -1,0 +1,14 @@
+streamlit
+torch
+torchvision
+transformers
+Pillow
+python-dotenv
+google-generativeai
+speechrecognition
+pyaudio
+gtts
+googletrans==4.0.0-rc1
+reportlab
+numpy
+requests
