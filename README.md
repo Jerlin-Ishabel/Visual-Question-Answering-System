@@ -4,12 +4,10 @@ An **Visual Question Answering System** that enables users to upload an image an
 
 ---
 
-## 🎥 Demo Video
+## 🎥 screenshot
 
-"C:\Users\jjerl\OneDrive\Screen Recording 2026-04-22 205033.mp4"
+<img width="1910" height="945" alt="image" src="https://github.com/user-attachments/assets/09c9198e-8704-41cf-b55d-513521700f7e" />
 
-
-▶️ Click the image above to watch the full demo
 
 ---
 
