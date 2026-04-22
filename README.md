@@ -228,7 +228,8 @@ Custom dataset (`my_vqa.json`) includes:
 
 ## 👩‍💻 Author
 
-**Jerlin Ishabel**
+**Jerlin Ishabel J**
+
 MSc Data Science
 
 ---
