@@ -3,3 +3,4 @@ venv/
 vqa_env/ 
 __pycache__/ 
 .vscode/ 
+model/trained_vqa/model.safetensors 
